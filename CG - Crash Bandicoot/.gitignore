@@ -1,0 +1,23 @@
+# Unity generated and local files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+# IDE and user-specific settings
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svclog
+*.VC.db
+*.VC.VC.opendb
+/UserSettings/
