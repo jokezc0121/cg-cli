@@ -1,0 +1,34 @@
+# Carpetas que Unity genera solo
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Archivos del editor de código
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Builds y otros
+*.apk
+*.aab
+*.unitypackage
+crashlytics-buildid.txt
+sysinfo.txt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
